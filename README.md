@@ -36,5 +36,3 @@ If you like this project, give it a star! ⭐
 ##  📞 Contact
 
 [![Discord](https://img.shields.io/discord/1304558291493457950?style=for-the-badge&logo=discord)](https://discord.gg/rFyJZwd7rg)
-
-[![Discord](<iframe src="https://discord.com/widget?id=1304558291493457950&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>)](https://discord.gg/rFyJzwd7rg)
