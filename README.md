@@ -8,12 +8,6 @@ Welcome to xnsWare, it is a roblox scripts hub that is made by unknowngamer123.
 2. **Put it in your executor and execute:**
 3. **Enjoy!** 🎉
 
-### Disclaimer
-
-- This script is provided for educational purposes only. 
-- Using this script to exploit on roblox may be against their terms of service. 
-- Use at your own risk.
-
 
 ## 🤝 Contributing
 
@@ -21,6 +15,9 @@ Contributions are welcome! If you like this project please consider giving it a 
 
 **⚠️ Important:**  This project is licensed under the [LICENSE](https://github.com/unknowngamer123-a/xnsWare/blob/main/LICENSE) file. Please respect the license terms. Skidding or redistributing this code as your own is not cool. If you want to use parts of the code, give credit where it's due.
 
+- This script is provided for educational purposes only. 
+- Using this script to exploit on roblox may be against their terms of service. 
+- Use at your own risk.
 
 ## ⭐️ Show Your Support
 
