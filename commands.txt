@@ -1,0 +1,46 @@
+addwhitelist [username]
+removewhitelist [username]
+addadmin [username]
+removeadmin [username]
+removebot [username]
+cmds
+rejoin
+reset
+jump
+bring
+chat
+sit
+speed
+sts [front/back/left/right]
+leave
+surround [username] [1-10]
+sus [speed]
+stopsus
+robux
+orbit [username] [speed]
+unorbit
+goto [username]
+follow [username]
+unfollow
+linefollow [username]
+unlinefollow
+antibang
+freeze
+unfreeze
+backflip
+frontflip
+stack [username]
+unstack
+fling [username]
+unfling
+bang [username] [speed]
+facebang [username] [speed]
+unbang
+unfacebang
+clearchat
+announce [message]
+rizz [username]
+hug [username]
+unhug
+capfps [number]
+antiafk [enable/disable]
